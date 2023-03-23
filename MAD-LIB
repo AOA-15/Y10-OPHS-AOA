@@ -1,0 +1,13 @@
+print("WELCOME TO MAD-LIB")
+print("Please answer the following questions")
+print("")
+
+adjective1 = input ("Enter an adjective e.g.Small/Broken/smelly >>>")
+food1 = input("enter a dish>>>")food)>>>")
+name1 = input("enter a name")
+
+print("")
+print("Here is your MAD-LIB")
+print("")
+print("Daishon beat up" , name1")
+print("Then he cooked" , food1,)
