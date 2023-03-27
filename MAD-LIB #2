@@ -1,0 +1,15 @@
+print("WELCOME TO MAD-LIB")
+print("Please answer the following questions")
+print("")
+
+adjective1 = input ("Enter an adjective e.g.Small/Broken/smelly >>>")
+food1 = input("enter a dish>>>")
+name1 = input("enter a name")
+
+print("")
+print("Here is your MAD-LIB")
+print("")
+print("One night aliens abducted" , name1)
+print("when" , name1,"woke up he was surrounded by one eyed green men")
+print("it turn out the alien was lonely and wanted to share food with someone")
+print("so he cooked" , food1 , "for" , name1 , "he really enjoyed it and they had a great time")
