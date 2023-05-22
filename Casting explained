@@ -1,0 +1,19 @@
+#Casting explained
+
+a= 1
+b=2
+
+StringA = str(a) #Casting
+StringB = str(b) #Casting
+
+#Casting is converting one..
+#data type to another
+
+c = StringA+StringB
+
+print(c)
+
+#Since you cannot add string,
+#The plus sign is now a 
+#Concatenation sign
+#(squashes strings together)
