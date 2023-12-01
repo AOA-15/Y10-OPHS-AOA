@@ -1,0 +1,18 @@
+#Subprogram
+
+def buildmessage(title,name,amount,authorised):
+  message = "Dear {}{}".format(title,name)
+  message = message + "Please be advised that you owe {}".format(amount)
+  message = message = "Your actual overdraft amount is {}".format(authorised)
+
+
+
+
+
+#Main program
+
+customertitle = str(input("Enter your title from Mr, Mrs, Miss, Ms or Dr"))
+
+customersurname = str(input("Enter your surname"))
+
+amount = float(input("Enter how much you have spent"))
