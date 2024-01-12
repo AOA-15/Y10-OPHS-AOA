@@ -1,0 +1,7 @@
+totalbill = int(input("What is the price of the bill?"))
+
+numdiner = int(input("How many diners are there?"))
+
+price = totalbill/numdiner
+
+print("Each person will have to pay",price)
