@@ -1,0 +1,7 @@
+age = int(input("Enter your age"))
+
+name = str(input("Enter your name"))
+
+nextbirthday = age + 1 
+
+print(name,"Next year you will be",nextbirthday)
