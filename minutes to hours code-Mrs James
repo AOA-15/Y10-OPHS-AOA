@@ -1,0 +1,7 @@
+minutes = int(input("How many minutes do you want to convert to hours"))
+
+hours = int(minutes)/60
+
+mins = int(minutes)%60
+
+print(int(hours),str("hours and",(int(mins),str("mins"))))
